@@ -1,0 +1,27 @@
+{
+  "name": "hrbot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaz",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.11.0",
+    "@discordjs/rest": "^0.2.0-canary.0",
+    "axios": "^0.25.0",
+    "discord-api-types": "^0.26.1",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "node-fetch": "^3.1.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.7.0"
+  }
+}
